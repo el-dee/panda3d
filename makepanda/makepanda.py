@@ -95,7 +95,7 @@ PkgListSet(["PYTHON", "DIRECT",                        # Python support
   "MFC", "WX", "FLTK",                                 # Used for web plug-in only
   "COCOA",                                             # macOS toolkits
   "X11",                                               # Unix platform support
-  "PANDATOOL", "PVIEW", "DEPLOYTOOLS",                 # Toolchain
+  "PANDATOOL", "PSTATS", "PVIEW", "DEPLOYTOOLS",       # Toolchain
   "SKEL",                                              # Example SKEL project
   "PANDAFX",                                           # Some distortion special lenses
   "PANDAPARTICLESYSTEM",                               # Built in particle system
